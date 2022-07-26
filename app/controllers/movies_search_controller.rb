@@ -1,2 +1,0 @@
-class MoviesSearchController < ApplicationController
-end
